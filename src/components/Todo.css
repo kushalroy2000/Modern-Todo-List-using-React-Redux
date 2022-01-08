@@ -1,0 +1,24 @@
+.clearbtn {
+    margin-top: 15px;
+    cursor: pointer;
+    background: red;
+    font-weight: 600;
+    color: white;
+}
+.allitems {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: grey;
+}
+
+.todo-btn{
+    padding: 0 10px;
+    cursor: pointer;
+}
+.todo-btn :hover {
+    color: red;
+}
+.main-div{
+    text-transform: uppercase;
+}
